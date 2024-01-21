@@ -1,0 +1,27 @@
+/* .heading {
+    margin-top: 20%;
+} */
+.form-data{
+    margin-top: 10%;
+}
+.side-human{
+    width: 93%;
+}
+
+h1{
+    color:#436d8a
+}
+h2{
+    color: dimgrey;
+    margin: 5% !important;
+    font-size: x-large !important;
+
+}
+.home{
+    text-decoration: underline !important;
+    font-weight: 700 !important;
+    font-size: large;
+}
+.dropdown-toggle{
+    padding: 10px !important;
+}

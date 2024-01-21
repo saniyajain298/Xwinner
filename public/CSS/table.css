@@ -1,0 +1,24 @@
+body{
+    height: 100vh !important;
+}
+.t-head{
+    background-color: #ff9292;
+}
+th.serial-number{
+    background-color: aliceblue !important;
+
+}
+td.wrong-data{
+    background-color: #ff9705 !important;
+}
+td, th{
+    padding: 2px !important;
+}
+h1{
+    color:#436d8a
+}
+.search{
+    text-decoration: underline !important;
+    font-weight: 700 !important;
+    font-size: large;
+}
